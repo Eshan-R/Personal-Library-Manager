@@ -9,7 +9,6 @@ A Python-based **Personal Library Manager** that allows users to easily manage t
 - 📜 **Display All Books** – View your complete library in a neat format.
 - 💾 **Persistent Storage** – All data is stored locally for future use.
 
----
 
 ## 🧠 Concepts Covered
 This project reinforces:
@@ -19,8 +18,6 @@ This project reinforces:
 - Exception Handling
 - Modular Programming
 
----
-
 ## 🗂️ File Structure
 ```
 .
@@ -29,8 +26,6 @@ This project reinforces:
 ├── book_list.json # Storage file for books (created automatically)
 └── README.md # Project documentation
 ```
-
----
 
 ## ⚙️ **How to Run** 
 ### 1️⃣ Clone this repository:
@@ -47,8 +42,6 @@ cd PersonalLibraryManager
 python main.py
 ```
 
----
-
 ## 🧩 Future Improvements
 - GUI using Tkinter or PyQt
 - Search filters by genre or year
@@ -56,7 +49,7 @@ python main.py
 - Export library to CSV or PDF
 
 ## 👨‍💻 Author
-**Eshan Rajshekhar 
+**Eshan Rajshekhar**
 🎓 Computer Engineering Student | 💻 Python & Java Enthusiast | 🔐 Cybersecurity Aspirant
 
 📫 Connect with me on LinkedIn
